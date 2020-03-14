@@ -11,7 +11,7 @@ To download, please go to this website
 
 ![Processing](./pictures/processing_website_downloads.png)
 
-![Processing](https://processing.org/) - sketchbook used
+*[Processing](https://processing.org/) - sketchbook used
 
 ### Clone
 
