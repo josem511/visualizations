@@ -16,3 +16,8 @@ to:
 ![visual representation of bubble sorting](./insertionFrames/insertion_0299.png)
 
 
+Animation: 
+
+![visual representation of bubble sorting](./insertion_sort.gif)
+
+
