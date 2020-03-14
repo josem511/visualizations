@@ -13,7 +13,7 @@ Output will go from:
 
 to: 
 
-![visual representation of bubble sorting](./bubbleMovie/bubble_0287.png)
+![visual representation of bubble sorting](./bubbleMovie/bubble_0276.png)
 
 
 
