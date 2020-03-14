@@ -1,3 +1,5 @@
+//Bubble Sort
+//By: Jose Romero
 import java.util.Random;
 int numOfRect = 300;
 float size = width / numOfRect;
