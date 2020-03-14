@@ -4,4 +4,4 @@
 
 Output:
 
-![tree](/pic1.png)
+![tree](./pic1.png)
